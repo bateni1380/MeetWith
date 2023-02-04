@@ -56,7 +56,6 @@ class Meeting(models.Model):
 class MH_Time(models.Model) :
     mhID = models.ForeignKey(MH, on_delete=models.CASCADE)
     timeID = models.ForeignKey(Time, on_delete=models.CASCADE)
-    reserved = models.BooleanField(default=False)
     
     def __str__(self):
         return "%s" % (self.id)

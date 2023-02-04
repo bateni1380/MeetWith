@@ -52,6 +52,7 @@ def check_inputs(input, policy):
         if 'mh_id' not in input: raise Exception("You must mention mh_id!")
         if 'days' not in input: raise Exception("You must mention days!")
 
+
     if policy == 'api_make_time_id':
         if 'date' not in input: raise Exception("You must mention date!")
         if 'start_time' not in input: raise Exception("You must mention start_time!")
@@ -248,7 +249,6 @@ def api_mh_fill_timetable(request):
                     {
                         "start_time": {"hour":12, "minute":30, "second":0},
                         "end_time": {"hour":13, "minute":30, "second":0},
-                        "reserved":False
                     }
                 ]
             },
@@ -258,7 +258,6 @@ def api_mh_fill_timetable(request):
                     {
                         "start_time": {"hour":14, "minute":30, "second":0},
                         "end_time": {"hour":15, "minute":30, "second":0}
-                        "reserved":False
                     }
                 ]
             }
@@ -402,12 +401,10 @@ def api_get_timetable(request):
                     {
                         "start_time": {"hour": 13, "minute": 15, "second": 0},
                         "end_time": {"hour": 13, "minute": 30, "second": 0},
-                        "reserved"=False
                     },
                     {
                         "start_time": {"hour": 12, "minute": 30, "second": 0},
                         "end_time": {"hour": 12, "minute": 45, "second": 0}
-                        "reserved"=False
                     }
                 ]
             },
@@ -417,7 +414,6 @@ def api_get_timetable(request):
                     {
                         "start_time": {"hour": 14, "minute": 30, "second": 0},
                         "end_time": {"hour": 15, "minute": 30, "second": 0}
-                        "reserved"=False
                     }
                 ]
             }
