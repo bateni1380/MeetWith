@@ -77,6 +77,10 @@ If everything was OK and would've been reserved, both people (MH and user) can o
 "قرار های من"
 (my meetings) tab.
 
+Now the involved user and MHH can chose
+"جلسات آینده"
+(future meetings) to see the reserved meetings with each other.
+
 User timeline (future meetings):
 
 ![Confirmation](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/final1.jpg)
