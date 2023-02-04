@@ -1,12 +1,12 @@
 # MeetWith
 This is a project that we were working on as a team of 5 for software engineering course thought by Dr. Bejani at Amirkabir University of Technology  
-The project finished in January 2023
+The project finished in January 2023.
 
 This is basically a website to reserve meeting with professors.
 
 During this project we learned a lot of things about software engineering like UML diagrams or some techniques like ab-test and needs assessment processes and you can see some of it's document's 
-([here](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg)). 
-By the way, we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
+([here](pdf's/MeetWith.pdf)). 
+And also we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
 
 Here is the instruction of how to use the app step by step (the website was in persian but I will explain everything that is happening in every page)
 
