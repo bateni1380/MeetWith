@@ -4,7 +4,9 @@ The project finished in January 2023
 
 This is basically a website to reserve meeting with professors.
 
-During this project we learned a lot of things about software engineering like UML diagrams or some techniques like ab-test and needs assessment processes and you can see some of it's document's 
+We used python(django) for back-end and javascript(react) for front-end and PostgreSQL for database and python(ORM) to connect the database and the back-end.
+
+In addiction, during this project we've learned a lot of things about software engineering like UML diagrams and some techniques like ab-test and needs assessment processes and you can see some of it's document's 
 ([here](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg)). 
 By the way, we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
 
