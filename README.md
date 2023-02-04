@@ -6,7 +6,7 @@ This is basically a website to reserve meeting with professors.
 
 During this project we learned a lot of things about software engineering like UML diagrams or some techniques like ab-test and needs assessment processes and you can see some of it's document's 
 ([here](pdf's/MeetWith.pdf)). 
-By the way, we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
+And also we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
 
 Here is the instruction of how to use the app step by step (the website was in persian but I will explain everything that is happening in every page)
 
