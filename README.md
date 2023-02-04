@@ -11,9 +11,7 @@ By the way, we gained a lot of experience about team working. I was manager of t
 Here is the instruction of how to use the app step by step (the website was in persian but I will explain everything that is happening in every page)
 
 
-First of all, an admin makes account's for Meeting Holders (MH's) manually using a simple http request.
-
-([example](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg))
+First of all, an admin makes account's for Meeting Holders (MH's) manually using a simple http request. ([example](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg))
 
 
 After that, MH's can login to site (the login button for user's and MH's is common and the web app find's out the role automatically)
