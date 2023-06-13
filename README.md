@@ -7,7 +7,7 @@ This is basically a website to reserve meeting with professors.
 We used python(django) for back-end and javascript(react) for front-end and PostgreSQL for database and python(ORM) to connect the database and the back-end.
 
 In addiction, during this project we've learned a lot of things about software engineering like UML diagrams and some techniques like ab-test and needs assessment processes and you can see some of it's document's 
-([here](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg)). 
+([here](https://raw.githubusercontent.com/bateni1380/MeetWith/master/images/mh1.jpg](https://github.com/bateni1380/MeetWith/blob/master/pdf's/MeetWith.pdf))). 
 By the way, we gained a lot of experience about team working. I was manager of the team and one of it's back-end developers.
 
 Here is the instruction of how to use the app step by step (the website was in persian but I will explain everything that is happening in every page)
